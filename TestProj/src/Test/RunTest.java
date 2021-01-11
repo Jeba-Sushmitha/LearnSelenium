@@ -31,6 +31,7 @@ public class RunTest {
 			List<WebElement> urls=driver.findElements(By.xpath("//table/tbody/tr/td[4]"));
 			for (WebElement element: urls){
 				System.out.println(element.getText());}
+			System.out.println("Success!!");
 		/*	System.setProperty("webdriver.chrome.driver", "D:\\Selenium\\Driver\\chromedriver.exe");
 			WebDriver driver = new ChromeDriver();	
 			event_driver=RegisterWebDriverListener(driver);
