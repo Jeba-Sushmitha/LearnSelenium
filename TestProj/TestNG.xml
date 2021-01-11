@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+<test name = "Test Cases" >
+<classes>
+ <class name="learnTestNG.RerunFailedCases" /> 
+</classes>
+</test>
+</suite>
+
+<!-- <parameter name = "Jesus" value="Jesus's child Jeba"></parameter>
+<para --><!-- meter name = "Christ" value="Jesus's child Sushmitha"></parameter> -->
+<!-- <groups>
+<run>
+<include name="Apple"></include>
+<include name="Vivo"></include>
+<exclude name="Vivo"></exclude> 
+</run>
+</groups> -->
+
+<!-- <class name="learnTestNG.TestNG_Priority"></class>
+<class name="learnTestNG.TestNG_Dependencies" />
+<class name="learnTestNG.BeforeAfterSuite_TestNG" />
+<class name="learnTestNG.TestNG_Grouping" /> 
+<class name="learnTestNG.Assertions_TestNG" />
+ <class name="learnTestNG.TestNG_Parameterization" /> 
+ <class name="DataDrivenFramework.ExcelReadJXL" /> 
+ <class name="learnTestNG.TestNG_Grouping" />-->

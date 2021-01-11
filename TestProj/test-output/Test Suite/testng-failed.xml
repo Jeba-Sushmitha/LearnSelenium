@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test name="Test Cases(failed)">
+    <classes>
+      <class name="learnTestNG.RerunFailedCases">
+        <methods>
+          <include name="bSecond"/>
+        </methods>
+      </class> <!-- learnTestNG.RerunFailedCases -->
+    </classes>
+  </test> <!-- Test Cases(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
